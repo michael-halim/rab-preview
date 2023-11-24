@@ -28,30 +28,26 @@
 
 ### Materials Module
 
-https://github.com/michael-halim/rab-preview/assets/77791102/d8b63ae4-d0e4-402d-9c7b-77be8f02d9ee
+https://github.com/michael-halim/rab-preview/assets/77791102/4c1efe98-542e-4043-be59-b20cd16376f5
 
 ### Material Categories Module
 
-https://github.com/michael-halim/rab-preview/assets/77791102/6299a4d8-3452-4c48-a79c-b93f02fdabeb
+https://github.com/michael-halim/rab-preview/assets/77791102/72787e97-a3f4-45e5-bb28-8f4f5f3c14a3
 
 ### Material Groups Module
 
-https://github.com/michael-halim/rab-preview/assets/77791102/a524de71-92d3-452a-ac21-a3632d857171
+https://github.com/michael-halim/rab-preview/assets/77791102/4831771d-0617-41de-acc3-753e753c04b4
 
 ### Material Items Module
 
-https://github.com/michael-halim/rab-preview/assets/77791102/c05b0de3-798d-4420-9d7e-2969f5e7dde6
+https://github.com/michael-halim/rab-preview/assets/77791102/04a3f155-d469-43f9-92d6-d79cd2b07b92
 
 ## Transactions Module
 
-https://github.com/michael-halim/rab-preview/assets/77791102/39d11fc1-dff8-4b58-9879-b2f8466f93b4
+https://github.com/michael-halim/rab-preview/assets/77791102/e5749113-9ab4-463b-94dd-8b7a4c6f5e99
 
 ## Budget Planning Module
 
-https://github.com/michael-halim/rab-preview/assets/77791102/151675ce-41d4-4f68-b3d9-f639e5c58914
+https://github.com/michael-halim/rab-preview/assets/77791102/20b6aa47-fdeb-47dd-ab45-261a9da09f09
 
-https://github.com/michael-halim/rab-preview/assets/77791102/099402bf-cd6a-4b6a-a00a-41b0458e6be7
-
-
-
-
+https://github.com/michael-halim/rab-preview/assets/77791102/fa7ae7ee-ecae-4493-aea5-ff28f685284d
